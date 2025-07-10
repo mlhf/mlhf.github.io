@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
-<root>
-  <element style="color: red;">内容</element>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>mlhf的个人网站</title>
   
-  <subtitle>man</subtitle>
+  <subtitle>无名小卒</subtitle>
   <link href="https://mlhf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mlhf.github.io/"/>
@@ -59,5 +56,3 @@
   </entry>
   
 </feed>
-
-
